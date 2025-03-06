@@ -29,7 +29,12 @@ Address, Customer, CustomerAddress, Product, ProductCategory, ProductDescription
     - Data from each table was stored in separate directories in ADLS in Parquet format.
  
 ## Data Flow Diagram
-On-Prem SQL Server → Azure Data Factory → Azure Data Lake (ADLS)
+![Data Flow Diagram](https://github.com/SHIVAM-MANDHAN/AdventureWorks-ADF-Data-Ingestion/blob/main/assets/AW%20Data%20Flow.png)
+
+ADF Overview:
+
+![ADF Overview](https://github.com/SHIVAM-MANDHAN/AdventureWorks-ADF-Data-Ingestion/blob/main/assets/AW%20ADF.png)
+
 
 ## Future Enhancements
 - Perform data cleaning, transformation and load the data into silver layer.
