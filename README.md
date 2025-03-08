@@ -29,7 +29,7 @@ Address, Customer, CustomerAddress, Product, ProductCategory, ProductDescription
     - Data from each table was stored in separate directories in ADLS in Parquet format.
  
 ## Data Flow Diagram
-![Data Flow Diagram](https://github.com/SHIVAM-MANDHAN/AdventureWorks-ADF-Data-Ingestion/blob/main/assets/AW%20Data%20Flow%20(2).png)
+![Data Flow Diagram](https://github.com/SHIVAM-MANDHAN/AdventureWorks-ADF-Data-Ingestion/blob/main/assets/AW%20Data%20Flow.png)
 
 ADF Overview:
 
