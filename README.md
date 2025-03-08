@@ -31,16 +31,5 @@ Address, Customer, CustomerAddress, Product, ProductCategory, ProductDescription
 ## Data Flow Diagram
 ![Data Flow Diagram](https://github.com/SHIVAM-MANDHAN/AdventureWorks-ADF-Data-Ingestion/blob/main/assets/AW%20Data%20Flow.png)
 
-ADF Overview:
-
-![ADF Overview](https://github.com/SHIVAM-MANDHAN/AdventureWorks-ADF-Data-Ingestion/blob/main/assets/AW%20ADF.png)
-
-
-
-## Future Enhancements
-- Perform data cleaning, transformation and load the data into silver layer.
-- Perform data modeling and load the data into gold layer.
-- Set up automated triggers for regular data ingestion.
-
 ## Conclusion
 This project showcases the end-to-end process of ingesting on-premises data into Azure, ensuring scalable, cloud-based storage and processing for analytics and further data engineering tasks.
